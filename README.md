@@ -1,30 +1,30 @@
 A Logistic Regression ML project on Titanic survival prediction is one of the most classic beginner machine learning tasks. 
 It involves predicting whether a passenger survived or not based on features
 
-🚢 Titanic Survival Prediction using Logistic Regression
-✅ 1. Problem Statement
+Titanic Survival Prediction using Logistic Regression
+1. Problem Statement
 Predict survival on the Titanic using passenger data.
 Target Variable: Survived (0 = No, 1 = Yes)
 Input Features: Pclass, Sex, Age, SibSp, Parch, Fare, Embarked, etc.
 
-✅ 2. Dataset
+2. Dataset
 You can use the dataset from Kaggle Titanic Dataset.
 train.csv — for training
 test.csv — for predictions
 
-✅ 3. Step-by-Step Implementation in Python
-📌 Import Libraries
-📌 Load Data
-📌 Explore Data
-📌 Handle Missing Values
-📌 Encode Categorical Variables
-📌 Feature Selection
-📌 Train-Test Split
-📌 Logistic Regression Model
-📌 Evaluation
-📌Display ROC Curve and find the AUC score
+3. Step-by-Step Implementation in Python
+Import Libraries
+Load Data
+Explore Data
+Handle Missing Values
+Encode Categorical Variables
+Feature Selection
+Train-Test Split
+Logistic Regression Model
+Evaluation
+Display ROC Curve and find the AUC score
 
-✅ 4. Project Wrap-Up
+4. Project Wrap-Up
 Include the following:
 Introduction
 Data Cleaning
